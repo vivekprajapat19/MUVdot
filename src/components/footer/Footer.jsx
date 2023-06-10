@@ -29,7 +29,7 @@ const Footer = () => {
                     </span>
                     <span className="icon"><a href="https://www.instagram.com/vivekprajapat212/" target="_blank"><FaInstagram /></a>
                     </span>
-                    <span className="icon"><a href="https://github.com/noobone01" target="_blank"><FaGithub /></a>
+                    <span className="icon"><a href="https://github.com/vivekprajapat19" target="_blank"><FaGithub /></a>
                         
                     </span>
                     <span className="icon" ><a href="https://www.linkedin.com/in/vivek-prajapat-b00b8a221/"  target="_blank" > <FaLinkedin /></a>
